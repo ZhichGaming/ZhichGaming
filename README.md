@@ -33,13 +33,13 @@ Takes advantage of these tools:
   
   🎉 Managed to scribble enough code to squeeze out a couple of desktop apps using [C#][11] and [XAML][12].
 
-  👨‍💻 Aiming to work in [IT-related][8] industries.
+  👨‍💻 Aiming to work in [AI-related][8] industries.
 
 [2]:https://en.wikipedia.org/wiki/Python_(programming_language)
 [3]:https://en.wikipedia.org/wiki/Swift_(programming_language)
 [5]:https://en.wikipedia.org/wiki/HTML
 [6]:https://en.wikipedia.org/wiki/CSS
 [7]:https://developer.apple.com/xcode/swiftui/
-[8]:https://en.wikipedia.org/wiki/Computer_security
+[8]:https://en.wikipedia.org/wiki/Artificial_intelligence
 [11]:https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
 [12]:https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
