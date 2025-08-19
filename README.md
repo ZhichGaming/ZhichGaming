@@ -1,7 +1,7 @@
 # Hey, I'm Zhich~
 
 ## About Me
-✨ I am a self taught frontend developer that mainly codes in TS and makes multi-platform applications. Right now, I’m studying AI/ML fundamentals (calculus, linear algebra, probability) while also exploring procedural generation and game design.
+✨ I am a self taught frontend developer that mainly codes in TS and makes multi-platform applications. Right now, I’m studying AI/ML fundamentals (multivariable calculus, linear algebra, pytorch) while also exploring procedural generation and game design.
 
 ## Here are some things I've been working on!
 
