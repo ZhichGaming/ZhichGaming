@@ -8,7 +8,7 @@
 
 Project Raphael: AI-powered multi-platform assistant
 :-:
-[![]([https://github.com/ZhichGaming/Novee/raw/master/images/home-menu.jpeg](https://github.com/user-attachments/assets/333bc1e8-aeb6-4931-b3c6-aba6f4746fc9))](https://github.com/Project-Raphael)
+[![](https://github.com/user-attachments/assets/333bc1e8-aeb6-4931-b3c6-aba6f4746fc9)](https://github.com/Project-Raphael)
 
 Novee: Anime, manga and novel viewer and tracker. 
 :-:
